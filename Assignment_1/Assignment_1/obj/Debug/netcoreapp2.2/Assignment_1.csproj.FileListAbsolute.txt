@@ -1,0 +1,11 @@
+G:\ASP.NET\Assignment\Assignment_1\Assignment_1\bin\Debug\netcoreapp2.2\Assignment_1.deps.json
+G:\ASP.NET\Assignment\Assignment_1\Assignment_1\bin\Debug\netcoreapp2.2\Assignment_1.runtimeconfig.json
+G:\ASP.NET\Assignment\Assignment_1\Assignment_1\bin\Debug\netcoreapp2.2\Assignment_1.runtimeconfig.dev.json
+G:\ASP.NET\Assignment\Assignment_1\Assignment_1\bin\Debug\netcoreapp2.2\Assignment_1.dll
+G:\ASP.NET\Assignment\Assignment_1\Assignment_1\bin\Debug\netcoreapp2.2\Assignment_1.pdb
+G:\ASP.NET\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.csprojAssemblyReference.cache
+G:\ASP.NET\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.csproj.CoreCompileInputs.cache
+G:\ASP.NET\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.AssemblyInfoInputs.cache
+G:\ASP.NET\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.AssemblyInfo.cs
+G:\ASP.NET\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.dll
+G:\ASP.NET\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.pdb
